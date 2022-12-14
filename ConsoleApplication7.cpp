@@ -1,11 +1,8 @@
 ﻿#include <iostream> 
 #include <iomanip> 
 #include "windows.h"
-#define N 3
-
+#define N 44
 using namespace std;
-
-
 int main()
 {
     int ar[N][N];
